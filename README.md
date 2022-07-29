@@ -1,4 +1,4 @@
-- 👋 Hola, Soy Daniel BUsso
+- 👋 Hola, Soy Daniel Busso
 - 👀 Estoy interesado en Data Science usando Python
 - 🌱 Actualmente estoy aprendiendo Machine Learning
 - 💞️ Estoy tratando de colaborar en Git Hub
